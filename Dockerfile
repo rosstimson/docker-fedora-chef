@@ -1,4 +1,4 @@
-# Packer Dockerfile
+# Fedora-Chef Dockerfile
 #
 # https://github.com/rosstimson/docker-fedora-chef
 #
@@ -8,7 +8,7 @@
 # Fedora with Chef-Omnibus installed, for usage with Test Kitchen.
 #
 # Docker:         https://www.docker.io
-# Chef:          http://http://www.getchef.com/
+# Chef:           http://http://www.getchef.com/
 #
 
 # Pull base image
